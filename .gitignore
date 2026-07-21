@@ -1,0 +1,22 @@
+# Environments
+.venv/
+.venv-1/
+.venv-metal311/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data (too large for GitHub / regenerable)
+data/
+data.zip
+data_zip_parts/
+artifacts/
+tmp/
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Internal tooling
+.rocketride/
+.claude/
