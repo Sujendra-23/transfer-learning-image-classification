@@ -1,0 +1,9 @@
+tensorflow==2.16.2
+tensorflow-metal==1.2.0   # Apple silicon GPU; omit on other platforms
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pillow
+ipykernel
