@@ -1,0 +1,11 @@
+.git
+.github
+.venv*
+data
+artifacts
+tmp
+notebook
+tests
+__pycache__
+*.keras
+*.h5
